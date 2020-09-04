@@ -1,11 +1,11 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Gaming
+subtitle: FPS, Strategy, & More
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: gaming.png
+thumbnail: 
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
